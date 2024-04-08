@@ -15,11 +15,11 @@
   > Вы ничего не ввели, сохранение отменено.
 ---
 ### Список программ для установки (выделить те, про которые сделан Word документ)
-- [ ] gnome-tweak
-- [ ] lm-sensor
-- [ ] gsmartcontrol
-- [ ] psensor
-- [ ] cpu-x
+- [X] gnome-tweak
+- [X] lm-sensor
+- [X] gsmartcontrol
+- [X] psensor
+- [X] cpu-x
 - [ ] hard-info
 - [ ] vlc
 - [ ] gparted
